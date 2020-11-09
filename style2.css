@@ -1,0 +1,32 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+p {
+  margin: 0px;
+  padding: 0px;
+}
+.uklad {
+  display: grid;
+  margin: 0px;
+  padding: 0px;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 0px;
+  grid-auto-rows: minmax(100px, auto);
+}
+.header {
+  grid-column: 1/5;
+  background: green;
+}
+.menu {
+  grid-column: 1/1;
+  background: red;
+}
+.glowna {
+  grid-column: 2/5;
+  background: pink;
+}
+.footer {
+  grid-column: 1/5;
+  background: blue;
+}

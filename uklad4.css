@@ -1,0 +1,59 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.uklad {
+  display: block;
+  margin: 0px;
+  padding: 0px;
+}
+p {
+  margin: 0px;
+  padding: 0px;
+}
+.header {
+  background: green;
+  display: block;
+  height: 150px;
+  text-align: center;
+}
+.menu {
+  background: red;
+  width: 40%;
+  height: 500px;
+  display: block;
+  float: left;
+  text-align: center;
+}
+.glowna {
+  background: pink;
+  width: 60%;
+  height: 500px;
+  display: block;
+  float: left;
+  text-align: center;
+}
+.footer1 {
+  background: blue;
+  display: block;
+  width: 33%;
+  height: 150px;
+  float: left;
+  text-align: center;
+}
+.footer2 {
+  background: #ff8000;
+  display: block;
+  height: 150px;
+  width: 34%;
+  float: left;
+  text-align: center;
+}
+.footer3 {
+  background: #8000ff;
+  display: block;
+  height: 150px;
+  width: 33%;
+  float: left;
+  text-align: center;
+}

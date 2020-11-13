@@ -1,0 +1,72 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.uklad {
+  display: block;
+  margin: 0px;
+  padding: 0px;
+}
+p {
+  margin: 0px;
+  padding: 0px;
+}
+.header {
+  background: green;
+  display: block;
+  height: 90px;
+  text-align: center;
+}
+.baner {
+  background: red;
+  height: 300px;
+  display: block;
+  text-align: center;
+}
+.glowna {
+  background: pink;
+  height: 500px;
+  display: block;
+  text-align: center;
+}
+.tekst1{
+  background: yellow;
+  width: 47%;
+  height: 420px;
+  display: block;
+  float: left;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+}
+.tekst2{
+  background: #00ffff;
+  width: 47%;
+  height: 420px;
+  display: block;
+  float: left;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+}
+.zalaczniki{
+  background: #8000ff;
+  height: 300px;
+  display: block;
+  text-align: center;
+}
+.tekst3{
+  background: #ff8000;
+  display: block;
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  height: 180px;
+}
+.footer {
+  background: blue;
+  display: block;
+  height: 150px;
+  text-align: center;
+  clear: both;
+}

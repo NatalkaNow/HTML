@@ -1,0 +1,34 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.uklad {
+  display: block;
+  margin: 0px;
+  padding: 0px;
+}
+p {
+  margin: 0px;
+  padding: 0px;
+}
+.header {
+  background: green;
+  display: block;
+  height: 150px;
+  text-align: center;
+}
+.glowna {
+  background: pink;
+  height: 500px;
+  width: 100%;
+  display: block;
+  float: left;
+  text-align: center;
+}
+.footer {
+  background: blue;
+  display: block;
+  height: 150px;
+  text-align: center;
+  clear: both;
+}
